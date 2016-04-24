@@ -1,0 +1,12 @@
+.site-name, .site-slogan{
+    font-weight: 100;
+    
+}
+.site-slogan{
+    text-align: center;
+}
+
+#logo{
+    height: 40px;
+    margin: 10px 5px 0px 0px;
+}
